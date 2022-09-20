@@ -5,7 +5,7 @@ We are using Tableau to analyze data from Citi Bike in order to determine if a s
 
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/ian.dixon/viz/NYCCitiBikeAnalysisAugust2019_16637031598400/NYCCitiBikeAnalysisforAugust2019?publish=yes)
 
-### Summary of Findings
+## Summary of Findings
 
 Based on the analysis we can determine that in NYC, the majority of users are male subscribers between the ages of 25-35. An analysis of the demographics in Des Moines would be required to determine if the demorgaphics there would match with these findings. Additionally, based off the findings about peak usage times, it would appear that many users use the bikes as a mode of transport to and from work (likely to avoid the high traffic congestion of the city). Does Des Moines have similiar traffic congestion, and would this be a viable option?
 
